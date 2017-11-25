@@ -68,6 +68,6 @@ public final class SliderHelper {
         sliderLayout.setPresetIndicator(SliderLayout.PresetIndicators.Right_Bottom);
         sliderLayout.setPresetTransformer(SliderLayout.Transformer.Accordion);
         sliderLayout.setCustomAnimation(new DescriptionAnimation());
-        sliderLayout.setDuration(4000);
+        sliderLayout.setDuration(3000);
     }
 }
